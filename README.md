@@ -7,36 +7,26 @@
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── [파일들].ipynb
+│   │   ├── .ipynb
 │   │   └── README.md
-│   ├── Quest02
-│   │   ├── [파일들].ipynb
-│   │   └── README.md
-│   .
-│   .
-│   .
+│   ...
 │   └── Quest08
-│       ├── [파일들].ipynb
+│       ├── .ipynb
 │       └── README.md
-└── Exploration
-|    ├── Ex01
-|    │   ├── [파일들].ipynb
-|    │   └── README.md
-|    .
-|    .
-|    .
-|    └── Ex07
-|        ├── [파일들].ipynb
-|        └── README.md
-└── GoingDeeper
+├── Exploration
+│   ├── Ex01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ...
+│   └── Ex07
+│       ├── .ipynb
+│       └── README.md
+└── GD
     ├── GD01
     │   ├── .ipynb
     │   └── README.md
-    .
-    .
-    .
+    ...
     └── GD09
         ├── .ipynb
         └── README.md
-
 ```
