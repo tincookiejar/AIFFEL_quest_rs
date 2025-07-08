@@ -19,13 +19,24 @@ AIFFEL_quest_cr
 │       ├── [파일들].ipynb
 │       └── README.md
 └── Exploration
-    ├── Ex01
-    │   ├── [파일들].ipynb
+|    ├── Ex01
+|    │   ├── [파일들].ipynb
+|    │   └── README.md
+|    .
+|    .
+|    .
+|    └── Ex07
+|        ├── [파일들].ipynb
+|        └── README.md
+└── GoingDeeper
+    ├── GD01
+    │   ├── .ipynb
     │   └── README.md
     .
     .
     .
-    └── Ex07
-        ├── [파일들].ipynb
+    └── GD09
+        ├── .ipynb
         └── README.md
+
 ```
