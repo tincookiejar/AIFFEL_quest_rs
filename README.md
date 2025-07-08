@@ -4,13 +4,13 @@
 - 주의 : Flutter 프로젝트는 프로젝트 폴더를 업로드합니다.
 
 ```bash
-AIFFEL_quest_cr
+AIFFEL_quest_rs
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
 │   │   └── README.md
 │   ...
-│   └── Quest08
+│   └── Quest05
 │       ├── .ipynb
 │       └── README.md
 ├── Exploration
