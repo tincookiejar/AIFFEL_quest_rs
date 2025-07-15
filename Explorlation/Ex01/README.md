@@ -6,10 +6,10 @@
 - [x]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-        - [1](Ex01/w1.png)
+        - [1](Explorlation/Ex01/w1.png)
         - [2](Explorlation/Ex01/w2.png)
         - [3](Explorlation/Ex01/w3.png)
-        - [4](AIFFEL_quest_rs.250715/Explorlation/Ex01/w4.png)
+        - [4](Explorlation/Ex01/w4.png)
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
