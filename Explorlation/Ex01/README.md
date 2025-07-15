@@ -9,7 +9,7 @@
         - [1](Ex01/w1.png)
         - [2](Explorlation/Ex01/w2.png)
         - [3](Explorlation/Ex01/w3.png)
-        - [4](Explorlation/Ex01/w4.png)
+        - [4](AIFFEL_quest_rs.250715/Explorlation/Ex01/w4.png)
 
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
