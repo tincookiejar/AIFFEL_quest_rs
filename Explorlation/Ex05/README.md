@@ -1,7 +1,5 @@
-<<<<<<< main
-<img width="877" height="292" alt="image" src="https://github.com/user-attachments/assets/69603c38-cc8b-4509-9fc4-b1eceff21887" /># AIFFEL Campus Online Code Peer Review Templete
-=======
 # AIFFEL Campus Online Code Peer Review Templete
+>>>>>>> main
 >>>>>>> main
 - 코더 : 원균재
 - 리뷰어 : 박범찬
