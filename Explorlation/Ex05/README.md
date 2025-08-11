@@ -9,6 +9,7 @@
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
           <img width="655" height="341" alt="image" src="https://github.com/user-attachments/assets/624a8318-dea0-46b5-93fb-d64f8f1fbd35" />
           <img width="602" height="263" alt="image" src="https://github.com/user-attachments/assets/bb8eed16-78ad-41ef-bbeb-c17ac32d70a5" />
+          
         
     
 - [x]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
