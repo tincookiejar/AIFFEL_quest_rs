@@ -22,7 +22,6 @@
           <img width="890" height="565" alt="image" src="https://github.com/user-attachments/assets/f57daa4e-2cf8-4116-832c-9c029d1e5730" />
 
 
-
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
