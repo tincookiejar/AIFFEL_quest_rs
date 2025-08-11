@@ -1,6 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
->>>>>>> main
->>>>>>> main
+
 - 코더 : 원균재
 - 리뷰어 : 박범찬
 
